@@ -1,0 +1,18 @@
+## Links 
+![](figures/umichchemlogo.jpg)
+
+- [University of Michigan Homepage](https://umich.edu/)
+
+- [University of Michigan Chemistry Department](https://lsa.umich.edu/chem)
+
+- [Program in Macromolecular Science and Engineering](https://macro.engin.umich.edu/)
+
+- [Umich Vertere Chemical Inventory](https://chem-vim.chem.lsa.umich.edu/uom)
+
+- [NMR Scheduler](https://lsa.umich.edu/chem/technical-services/nmr/news---scheduler.html)
+
+- [Raman Spectroscopy](https://lsa.umich.edu/chem/technical-services/raman-spectroscopy.html)
+
+- [Microporous Characterization](https://lsa.umich.edu/chem/technical-services/xray---microporous-materials-characterization.html)
+
+- [Spectral Database for Organic Compounds](https://sdbs.db.aist.go.jp/)

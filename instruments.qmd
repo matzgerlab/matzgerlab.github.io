@@ -1,0 +1,100 @@
+## Instruments 
+
+We use many instrument for both materials characterization, as well as understanding fundamnetal aspects of many material synthesis and properties. Although not all listed, here are a few core instruments that are frequently used in the lab. 
+
+### Single Crystal X-Ray Diffractometer and Miniflex 
+
+::: {.columns}
+
+::: {.column width="33%"}
+![](instrumentimages/singlecrystalx-ray.jpg)
+
+The sincle crystal X-Ray diffractometer is a powerful instrument that is capable of determining chemical structures of single crystals and conducting powdermicrodiffraction. 
+:::
+
+::: {.column width="33%"}
+![](instrumentimages/MiniFlexPXRD.webp)
+
+The Miniflex isa benchtop powder x-ray diffractometer that collects powder patterns between 298-773 K using an Anton Paar BTS 500 Benchtop heating stage. 
+:::
+
+::: {.column width="33%"}
+![](instrumentimages/Panalytical.jpeg)
+
+The PANalytical Empyrean is a conventional powder X-ray diffractometer equipped with a 240 mm radius vertical theta-theta goniometer for optimal angular resolution. An autosampler is also present if needed. Please see the link below if interested in using the PANalytical Empyrean Powder X-ray Diffractometer
+
+[Microporous Characterization](https://lsa.umich.edu/chem/technical-services/xray---microporous-materials-characterization.html)
+:::
+
+:::
+### Raman Spectroscopy 
+![](instrumentimages/renishaw_raman_microscope.png)
+
+Raman spectroscopy uses stokes and anti-stokes shifts to identify materials and analyaze molecular structures. The Matzger lab is  home to the Raman core facility at the University of Michgian and is equipped with lasers at 785, 633, 532, and 405 nm and automated stages. Additioally, we have a Renishaw Virsa 785/532 nm probe-coupled Raman spectrometer for high temperature/high pressure in situ studies. See the link below to use the Raman core facilities. 
+
+[Raman Spectroscopy](https://lsa.umich.edu/chem/technical-services/raman-spectroscopy.html)
+
+
+### Blaze Metrics 
+![](instrumentimages/blaze.avif)
+
+The Blaze Metrics allows for in situ visualization of particles between 1 to 1000 microns (and larger) coupled to a Wasatch Photonics Raman spectrometer with a 785 nm laser can be used in tandem to provide vibrational data and compound tracking.
+
+
+### Differential Scanning Calorimeter (DSC)
+![](instrumentimages/DSCQ20.jpg)
+
+The DSC 
+
+### Thermogravimetric Analysis(TGA)
+
+TGA is an instrument that measures weight changes in a material as a function of temperature. TGA can be used to determine the thermal stability, composition, and moisture content in a given material. 
+
+### Thermogravimetric Analysis- Mass Spectrometer (TGA-MS) Instrument
+![](instrumentimages/TGA-5500-MS.jpg)
+
+The TGA-MS measures the weight loss of a sample as a function of temperature, as well as the mass spec readings of the gaseous species that are produced from a given sample.
+
+### HPLC
+![](instrumentimages/HPLC.jpeg)
+
+Shimadzu Prominence analytical HPLC that provides full UV-vis absorption spectra of components as they are seprated by a packed column. 
+
+### Bam Hammer
+![](instrumentimages/BAMHammer.jpeg)
+
+The Bam Hammer is useful for determining the impact sensitivity of different energetic materials. It works by dropping a weight of a known mass from different heights to determine the amount of fore required to initiate an energetic material. 
+
+### Mettler Toledo Karl Fischer Titration
+![](instrumentimages/karlfischer.jpg)
+
+The Mettler Toledo C20 coulometric Karl Fischer titrator can determine the amount of water present in a given liquid sample. 
+
+### Opentrons OT2 Liquid Handeling Robot
+![](instrumentimages/opentrons-ot2-robot.webp)
+
+The opentrons OT2 liquid handeling robot can be used for a many high-throughput experiments. In our lab it is used for high-throughput MOF synthesis and screening different conditions for cocrystal formation. 
+
+### Linkham Hotstage with Humidity Control 
+![](instrumentimages/RH95-HUMIDITY-CONTROLLER-rh95-for-mc.jpg)
+
+The hotstage and humidity control attach to a microscope and can be used to visually track changes in crystal morphology or appearance as the temperature and humidity are changed in a closed environment  
+
+
+### Parr 6200 Bomb Calorimeter 
+![](instrumentimages/bombcal.jpeg)
+
+The bomb calorimeter can be used to measure heats of combustion for different materials and compounds. 
+
+### Infared Microscope and Spectrometer 
+![](instrumentimages/FTIR.avif)
+
+The infared microscope and can be used to determine the IR spectrum of different materials and chemical species. In addition to a standard FTIR, we also have the ability to perform IR mapping across the surface of different chemical species. 
+
+### ReactIR
+![](instrumentimages/ReactIR.jpg)
+
+Mettler Toledo System ReactIR 702L in situ attenuated total reflectance (ATR) FTIR probe for tracking changes through a chemical reaction (including crystallizations). 
+
+
+

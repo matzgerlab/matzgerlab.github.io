@@ -1,0 +1,401 @@
+---
+title: Publications 
+---
+
+## 2026
+
+::: {.pub-grid}
+
+![](TOCimages/NickCM2026.jpeg)
+
+**236.** Tomalia, N. A.; Rakova, Y.; Tubman, A. N.; Matzger, A. J.  
+"Tunable on-Demand Explosives Derived from Isoreticular Metal–Organic Framework Nanocomposites."  
+*Chem. Mater.,* **2026**.  
+[View Article](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.5c03363)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages//RenCGD2026.jpeg)
+
+**235.** Wiscons, R. A.; Swendris, C. A. V.; Mendez, J. M.; Matzger, A. J.  
+"Investigation of Phase Transitions in Molecular Solid Solutions Using an Organic Ferroelectric Model System."  
+*Crystal Growth & Design.,* **2026**.  
+[View Article](https://pubs.acs.org/doi/full/10.1021/acs.cgd.5c01253)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/AndrewJMCA2026.jpeg)
+
+**234.** Bennett, A. J.; Froberg, H. R.; Bellas, M. K.; Foroughi, L. M.; Matzger, A. J.  
+"Hydroxylammonium Nitrate: Synthesis, Cocrystals, and Properties."  
+*J. Mater. Chem. A.,* **2026**.  
+[View Article](https://pubs.rsc.org/en/content/articlelanding/2026/ta/d5ta08279j)
+
+:::
+
+
+## 2025
+
+::: {.pub-grid}
+
+![](TOCimages/JuliaCEurJ2025.bmp)
+
+**233.** Donovan, J. C.; Peterson, E. C.; Matzger, A. J.
+"Transitioning Formamide Solvothermal Syntheses of MOFs to Less Toxic Solvents."
+*Chem. Eur. J.,* **2025**
+[View Article](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202503154?af=R)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/JuliaCGD2025.jpeg)
+
+**232.** Donovan, J. C.; Peterson, E. C.; Matzger, A. J. 
+"Phase Formation of Zinc Metal-Organic Frameworks under Low Water Concentrations."
+*Crystal Growth & Design.,* **2025**
+[View Article](https://pubs.acs.org/doi/full/10.1021/acs.cgd.5c01218)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/LeilaCGD2025.jpeg)
+
+**231.** Foroughi, L. M.; Bennett, A. J.; Yeh, J. L.; Matzger, A. J 
+"Hydroxylammonium Chloride Cocrystals: Structural and Hygroscopicity Trends."
+*Crystal Growth & Design.,* **2025**
+[View Article](https://pubs.acs.org/doi/full/10.1021/acs.cgd.5c00523)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/NickACSML2025.jpeg)
+
+**230.** Tomalia, N. A.; Matzger, A. J. 
+"On-Demand Energetic Nanocomposites with Tunable Thermal Sensitivity from Porous Metal-Organic Frameworks." 
+*ACS Materials Lett.,* **2025**
+[View Article](https://pubs.acs.org/doi/full/10.1021/acsmaterialslett.5c00898)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/ShelbySAAMB2025.jpg)
+
+**229.** Nicolau, S. T.; Jiang, K. H.; Matzger, A. J. 
+"Selecting a laser excitation source and sampling strategy for Raman spectroscopy." 
+*Spectrochim. Acta A Mol. Biomol. Spectrosc.,* **2025**
+[View Article](https://www.sciencedirect.com/science/article/pii/S1386142525008959)
+
+:::
+<!-- Started copying urls directly from website, not HTML file from here on out-->
+::: {.pub-grid}
+
+![](TOCimages/KeenanCGD2025.png)
+
+**228.** Wright, K. R.; Donovan, J. C.; Peterson, E. C.; Matzger, A. J.  
+"Influence of Water on Zinc Metal-Organic Framework Formation Kinetics." 
+*Crystal Growth & Design.,* **2025**
+[View Article](https://pubs.acs.org/doi/full/10.1021/acs.cgd.5c00040)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/ShelbyCGD2025.jpeg)
+
+**227.** Nicolau, S. T.; Matzger, A. J.   
+"Controlling Energetic Crystal Morphology Using Tailored Polymeric Additives." 
+*Crystal Growth & Design.,* **2025**
+[View Article](https://pubs.acs.org/doi/10.1021/acs.cgd.5c00049)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/JuliaAngew2025.png)
+
+**226.** Donovan, J. C.; Wright, K. R.; Matzger, A. J.  
+"Validation and Mechanistic Studies of the Headspace Effect in MOF Synthesis."
+*Angew. Chem. Int. Ed.,* **2025**
+[View Article](https://onlinelibrary.wiley.com/doi/10.1002/anie.202500531)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/HochulACSML2025.jpeg)
+
+**225.** Woo, H.; Matzger, A. J. 
+"Competitive Guest Binding in a Metal-Organic Framework with Coordinatively Unsaturated Metals." 
+*ACS Materials Lett.,* **2025**
+[View Article](https://pubs.acs.org/doi/full/10.1021/acsmaterialslett.4c02250)
+
+:::
+
+## 2024 
+
+::: {.pub-grid}
+
+![](TOCimages/AhmedACSAMI2024.jpeg)
+
+**224.** Ahmed, A.; Nath, K.; Matzger, A. J.; Siegel, D. J. 
+"Machine Learning Predictions of Methane Storage in MOFs: Diverse Materials, Multiple Operating Conditions, and Reverse Models."
+*ACS Appl. Mater. Interfaces.,* **2024**
+[View Article](https://pubs.acs.org/doi/10.1021/acsami.4c10611)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/CassidyCC2024.jpeg)
+
+**223.** Carey, C. A.; Foroughi, L. M.; Matzger, A. J.  
+"Designed additive suppresses interpenetration in IRMOF-10."
+*Chem. Commun.,* **2024**
+[View Article](https://pubs.rsc.org/en/content/articlelanding/2024/cc/d4cc03138e)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/HochulJACS2024.jpeg)
+
+**222.** Woo, H. C.; Robinson, J. W.; Matzger, A. J.  
+"Solvent Exchange Dynamics in M2(dobdc): An Interplay among Binding Strength, Exchange Kinetics, and Cooperativity."
+*J. Am. Chem. Soc.,* **2024**
+[View Article](https://pubs.acs.org/doi/10.1021/jacs.4c05355)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/ShelbySAAMBS2024.png)
+
+**221.** Nicolau, S. T.; Matzger, A. J
+"An Evaluation of Resolution, Accuracy, and Precision in FT-IR Spectroscopy." 
+*Spectrochim. Acta A Mol. Biomol. Spectrosc.,* **2024**
+[View Article](https://www.sciencedirect.com/science/article/pii/S138614252400711X)
+
+:::
+
+::: {.pub-grid}
+
+**220.**  Robinson, J. W.; Roberts, W. W.; Matzger, A. J.
+"Kidney stone growth through the lens of Raman mapping."
+*Sci. Rep.,* **2024**
+[View Article](https://www.nature.com/articles/s41598-024-61652-9)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/KarabiJACS2024.jpeg)
+
+**219.** Nath, K. ; Wright K. R.; Ahmed A.; Siegel D. J.; Matzger, A. J.
+"Adsorption of Natural Gas in Metal-Organic Frameworks: Selectivity, Cyclability, and Comparison to Methane Adsorption." 
+*J. Am. Chem. Soc.,* **2024**
+[View Article](https://pubs.acs.org/doi/full/10.1021/jacs.3c14535)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/ShelbyCPC2024.jpg)
+
+**218.** Nicolau, S. T.; Matzger, A. J.
+"Sensitizing Explosives Through Molecular Doping." 
+*ChemPlusChem,* **2024**
+[View Article](https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/cplu.202300724)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/SureshCGD2024.jpeg)
+
+**217.** Suresh, K.; Carey, C. A.; Matzger, A. J. 
+"Metal-Organic Frameworks (MOFs) Morphology Control: Recent Progress and Challenges."  
+*Cryst. Growth Des.,* **2024**
+[View Article](https://pubs.acs.org/doi/full/10.1021/acs.cgd.3c01339)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/KristenACSAPM2024.jpeg)
+
+**216.** Kelsall, K. N.; Schubiner, R. O.; Schenck, L.; Frank, D. S.; Matzger, A. J. 
+"Enhancing the Acidity of Polymers for Improved Stabilization of Amorphous Solid Dispersions: Protonation of Weakly Basic Compounds." 
+*ACS Appl. Polym. Mater.,* **2024**
+[View Article](https://pubs.acs.org/doi/full/10.1021/acsapm.3c02882)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/AndrewJACS2024.jpeg)
+
+**215.** Bennett, A. J.; Foroughi, L. M.; Matzger, A. J.  
+"Perchlorate-Free Energetic Oxidizers Enabled by Ionic Cocrystallization." 
+*J. Am. Chem. Soc.,* **2024**
+[View Article](https://pubs.acs.org/doi/10.1021/jacs.3c12023)
+
+:::
+
+::: {.pub-grid}
+
+![](TOCimages/CassidyAML2024.jpeg)
+
+**214.** Carey, C. A.; Devlin, A. M.; Matzger, A. J.  
+"Dual Modification of MOFs Improves Dispersion and Ionic Conductivity of Mixed Matrix Membranes."
+*ACS Materials Lett.,* **2024**
+[View Article](https://pubs.acs.org/doi/10.1021/acsmaterialslett.3c01304)
+
+:::
+
+## 2023
+
+**213.** Robinson, J. W.; Marom, R.; Ghani, K. R.; Roberts, W. W.; Matzger, A. J. "Performance of Brushite Plaster as Kidney Stone Phantoms for Laser Lithotripsy." *Urolithiasis.* **2023**  
+[View Article](https://link.springer.com/article/10.1007/s00240-023-01505-8)
+
+**212.** Bramlett, T. A.; Foroughi, L. M.; Matzger, A. J. "Establishing the Analogy between Hydrates and Peroxosolvates: Cambridge Structural Database Analysis of Pyridyl Hydrates Yields New Peroxosolvates." *Cryst. Growth Des.* **2023**  
+[View Article](https://pubs.acs.org/doi/full/10.1021/acs.cgd.3c00009)
+
+**211.** Woo, H.; Devlin, A. M.; Matzger, A. J. "In Situ Observation of Solvent Exchange Kinetics in a MOF with Coordinatively Unsaturated Sites." *J. Am. Chem. Soc.* **2023**  
+[View Article](https://pubs.acs.org/doi/full/10.1021/jacs.3c06396)
+
+**210.** Bennett, A. J.; Matzger, A. J. "Progress in Predicting Ionic Cocrystal Formation: The Case of Ammonium Nitrate." *Chem. Eur. J.* **2023**  
+[View Article](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202300076)
+
+**209.** Robinson, J. W.; Ghani, K. R.; Roberts, W. W.; Matzger, A. J. "Near-Infrared Absorption Coefficients in Kidney Stone Minerals and Their Relation to Crystal Structure." *J. Phys. Chem. C.* **2023**  
+[View Article](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.2c07475)
+
+**208.** Kelsall, K. N.; Foroughi, L. M.; Frank, D. S.; Schenck, L.; LaBuda, A.; Matzger, A. J. "Structural Modifications of Polyethylenimine to Control Drug Loading and Release Characteristics of Amorphous Solid Dispersions." *Mol. Pharmaceutics.* **2023**  
+[View Article](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.2c00970?ref=pdf)
+
+## 2022
+
+**207.** Wright, K. R.; Nath, K.; Matzger, A. J. "Superior Metal-Organic Framework Activation with Dimethyl Ether." *Angew. Chem.* **2022**  
+[View Article](https://onlinelibrary.wiley.com/doi/10.1002/anie.202213190)
+
+**206.** Nath, K.; Ahmed, A.; Siegal, D. J.; Matzger, A. J. "Microscale Determination of Binary Gas Adsorption Isotherms in MOFs." *J. Am. Chem. Soc.* **2022**  
+[View Article](https://pubs.acs.org/doi/full/10.1021/jacs.2c09818)
+
+**205.** Du Bois, D. R.; Matzger, A. J. "Metal-Organic Framework Seeding to Drive Phase Selection and Overcome Synthesis Limitations." *Cryst. Growth Des.* **2022**  
+[View Article](https://pubs.acs.org/doi/10.1021/acs.cgd.2c00762)
+
+**204.** Bellas, M. K.; Matzger, A. J. "Discovery Strategy Leads to the First Melt-Castable Cocrystal Based on an Energetic Oxidizing Salt." *Chem. Sci.* **2022**  
+[View Article](https://pubs.rsc.org/en/content/articlelanding/2022/sc/d2sc03015b)
+
+**203.** Bellas, M. K.; Matzger, A. J. "Peroxosolvate Discovery Method Leads to First Cocrystal with Three Energetic Components." *Chem. Commun.* **2022**  
+[View Article](https://pubs.rsc.org/en/content/articlelanding/2022/cc/d2cc02024f)
+
+**202.** Sotuyo, A.; Swendris, C. A. V.; Suresh, K.; Matzger, A. J. "The Role of Secondary Interactions in Centrosymmetric Charge Transfer Complexes with Nitrated Acceptors." *Cryst. Growth Des.* **2022**  
+[View Article](https://pubs.acs.org/doi/full/10.1021/acs.cgd.2c00147)
+
+**201.** Wiscons, R. A.; Nikhar, R.; Szalewicz, K.; Matzger, A. J. "Factors Influencing Hydrogen Peroxide versus Water Inclusion in Molecular Crystals." *Phys. Chem. Chem. Phys.* **2022**  
+[View Article](https://pubs.rsc.org/en/Content/ArticleLanding/2022/CP/D1CP05765K)
+
+**200.** Nath, K.; Ahmed, A.; Siegel, D. J.; Matzger, A. J. "Computational Identification and Experimental Demonstration of High-Performance Methane Sorbents." *Angew. Chem.* **2022**  
+[View Article](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202203575)
+
+**199.** Shalini, S.; Matzger, A. J. "Ethylene Oxide Functionalization Enhances the Ionic Conductivity of a MOF." *Chem. Commun.* **2022**  
+[View Article](https://pubs.rsc.org/en/Content/ArticleLanding/2022/CC/D2CC01286C)
+
+**198.** Du Bois, D. R.; Wright, K. R.; Bellas, M. K.; Wiesner, N.; Matzger, A. J. "Linker Deprotonation and Structural Evolution on the Pathway to MOF-74." *Inorg. Chem.* **2022**  
+[View Article](https://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.1c03988)
+
+**197.** Suresh, K.; Kalenak, A. P.; Sotuyo, A.; Matzger, A. J. "Metal-Organic Framework (MOF) Morphology Control by Design." *Chem. Eur. J.* **2022**  
+[View Article](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202200334)
+
+## 2021
+
+**196.** Bramlett, T. A.; Matzger, A. J. "Halogen Bonding Propensity in Solution: Direct Observation and Computational Prediction." *Chem. Eur. J.* **2021**  
+[View Article](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202102522)
+
+**195.** Foroughi, L. M.; Matzger, A. J. "From Hydrate to Peroxosolvate: A Test of Prediction with Cyclic *N*-Oxides." *Cryst. Growth Des.* **2021**  
+[View Article](https://pubs.acs.org/doi/10.1021/acs.cgd.1c00746)
+
+**194.** Suresh, K.; Aulakh, D.; Purewal, J.; Siegal, D. J.; Veenstra, M.; Matzger, A. J. "Optimizing Hydrogen Storage in MOFs through Engineering of Crystal Morphology and Control of Crystal Size." *J. Am. Chem. Soc.* **2021**  
+[View Article](https://pubs.acs.org/doi/pdf/10.1021/jacs.1c04926)
+
+**193.** Bellas, M. K.; Mackenzie, L. V.; Matzger, A. J. "Lamellar Architecture Affords Salt Cocrystals with Tunable Stoichiometry." *Cryst. Growth Des.* **2021**  
+[View Article](https://pubs.acs.org/doi/10.1021/acs.cgd.1c00302)
+
+**192.** Bennion, J. C.; Matzger, A. J. "Development and Evolution of Energetic Cocrystals." *Acc. Chem. Res.* **2021**  
+[View Article](https://pubs.acs.org/doi/full/10.1021/acs.accounts.0c00830)
+
+**191.** Du Bois, D. R.; Matzger, A. J. "Reagent Reactivity and Solvent Choice Determine Metal-Organic Framework Microstructure during Postsynthetic Modification." *J. Am. Chem. Soc.* **2021**  
+[View Article](https://pubs.acs.org/doi/10.1021/jacs.0c12040)
+
+## 2020
+
+**190.** Dodson, R. A.; Kalenak, A. P.; Matzger, A. J. "Solvent Choice in Metal-Organic Framework Linker Exchange Permits Microstructural Control." *J. Am. Chem. Soc.* **2020**  
+[View Article](https://pubs.acs.org/doi/10.1021/jacs.0c10224)
+
+**189.** Shalini, S.; Frank, D. S.; Aldoukhi, A. H.; Majdalany, S. E.; Roberts, W. W.; Ghani, K. R.; Matzger, A. J. "Assessing the Role of Light Absorption in Laser Lithotripsy by Isotopic Substitution of Kidney Stone Materials." *ACS Biomater. Sci. Eng.* **2020**  
+[View Article](https://doi.org/10.1021/acsbiomaterials.0c00790)
+
+**188.** Dodson, R. A.; Kalenak, A. P.; Du Bois, D. R.; Gill-Ljunghammer, S. L.; Matzger, A. J. "*N,N*-Diethyl-3-methylbenzamide (DEET) Acts as a Metal-Organic Framework Synthesis Solvent with Phase-Directing Capabilities." *Chem. Commun.* **2020**  
+[View Article](https://pubs.rsc.org/en/content/articlelanding/2020/cc/d0cc02741c)
+
+**187.** Suresh, K.; López-Mejías, V.; Roy, S.; Camacho, D. F.; Matzger, A. J. "Leveraging Framework Instability: A Journey from Energy Storage to Drug Delivery." *Synlett.* **2020**  
+[View Article](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0040-1707139)
+
+**186.** Shalini, S.; Vaid, T. P.; Matzger, A. J. "Salt Nanoconfinement in Zirconium-Based Metal-Organic Frameworks Leads to Pore-Size- and Loading-Dependent Ionic Conductivity Enhancement." *Chem. Commun.* **2020**  
+[View Article](https://pubs.rsc.org/en/content/articlelanding/2020/cc/d0cc03147j)
+
+**185.** Foroughi, L. M.; Wiscons, R. A.; Du Bois, D. R.; Matzger, A. J. "Improving Stability of the Metal-Free Primary Energetic Cyanuric Triazide (CTA) through Cocrystallization." *Chem. Commun.* **2020**  
+[View Article](https://pubs.rsc.org/en/content/articlelanding/2020/CC/C9CC09465B)
+
+## 2019
+
+**184.** Wiscons, R. A.; Matzger, A. J. "Utilizing plane group symmetry to favor noncentrosymmetry in three-dimensional crystals." *Can. J. Chem.*, **2019**  
+[View Article](https://cdnsciencepub.com/doi/10.1139/cjc-2019-0402)
+
+**183.** Dasari, R. R.; Wang, X.; Wiscons, R. A.; Haneef, H. F.; Ashokan, A.; Zhang, Y.; Fonari, M. S.; Barlow, S.; Coropceanu, V.; Timofeeva, T. V.; Jurchescu, O. D.; Brédas, J.-L.; Matzger, A. J. "Charge-Transport Properties of F6TNAP-Based Charge-Transfer Cocrystals." *Adv. Funct. Mater.*, **2019**  
+[View Article](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201904858)
+
+**182.** Suresh, K.; Matzger, A. J. "Enhanced Drug Delivery by Dissolution of Amorphous Drug Encapsulated in a Water Unstable Metal-Organic Framework." *Angew. Chem.*, **2019**  
+[View Article](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201907652)
+
+**181.** Bellas, M. K.; Matzger, A. J. "Achieving Balanced Energetics Through Cocrystallization." *Angew. Chem.*, **2019**  
+[View Article](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201908709)
+
+**180.** Frank, D. S.; Aldoukhi, A. H.; Roberts, W. W.; Ghani, K. R.; Matzger, A. J. "Polymer-Mineral Composites Mimic Human Kidney Stones in Laser Lithotripsy Experiments." *ACS Biomater. Sci. Eng.*, **2019**  
+[View Article](https://pubs.acs.org/doi/10.1021/acsbiomaterials.9b01130)
+
+**179.** Seth, S.; Vaid, T. P.; Matzger, A. J. "Salt loading in MOFs: solvent-free and solvent-assisted loading of NH4NO3 and LiNO3 in UiO-66." *Dalton Trans.*, **2019**  
+[View Article](https://pubs.rsc.org/en/content/articlepdf/2019/dt/c9dt02489a)
+
+**178.** Dodson, R. A.; Matzger, A. J. "Resolvation-Based Damage to Metal-Organic Frameworks and Approaches to Mitigation." *ACS Mater. Lett.*, **2019**  
+[View Article](https://pubs.acs.org/doi/10.1021/acsmaterialslett.9b00240)
+
+**177.** Frank, D. S.; Zhu, Q.; Matzger, A. J. "Inhibiting or Accelerating Crystallization of Pharmaceuticals by Manipulating Polymer Solubility." *Mol. Pharmaceutics*, **2019**  
+[View Article](https://pubs.acs.org/doi/pdf/10.1021/acs.molpharmaceut.9b00468)
+
+**176.** Kent, R. V.; Vaid, T. P.; Boissonnault, J. A.; Matzger, A. J. "Adsorption of tetranitromethane in zeolitic imidazolate frameworks yields energetic materials." *Dalton Trans.*, **2019**  
+[View Article](https://pubs.rsc.org/en/content/articlepdf/2019/dt/c9dt01254k)
+
+**175.** Ahmed, A.; Seth, S.; Purewal, J.; Wong-Foy, A. G.; Veenstra, M.; Matzger, A. J.; Seigel, D. J. "Exceptional hydrogen storage achieved by screening nearly half a million metal-organic frameworks." *Nat. Commun.*, **2019**  
+[View Article](https://www.nature.com/articles/s41467-019-09365-w.pdf)
+
+**174.** Wiscons, R. A.; Coropceanu, V.; Matzger, A. J. "Quaternary charge-transfer solid solutions: electronic tunability through stoichiometry." *Chem. Mater.*, **2019**  
+[View Article](https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.9b00502)
+
+**173.** Vuppuluri, V. S.; Bennion, J. C.; Wiscons, R. A.; Gunduz, I. E.; Matzger, A. J.; Son, S. F. "Detonation Velocity Measurement of a Hydrogen Peroxide Solvate of CL-20." *Propellants Explos. Pyrotech.*, **2019**  
+[View Article](https://onlinelibrary.wiley.com/doi/epdf/10.1002/prep.201800202)
+
+**172.** Frank, D. S.; Matzger, A. J. "Effect of Polymer Hydrophobicity on the Stability of Amorphous Solid Dispersions and Supersaturated Solutions of a Hydrophobic Pharmaceutical." *Mol. Pharmaceutics*, **2019**  
+[View Article](https://pubs.acs.org/doi/pdf/10.1021/acs.molpharmaceut.8b00972)
+
+**171.** Nguyen-Sorenson, A. H. T.; Anderson, C. A.; Balijepalli, S. K.; McDonald, K. A.; Matzger, A. J.; Stowers, K. J. "Highly active copper catalyst obtained through rapid MOF decomposition." *Inorg. Chem. Front.*, **2019**  
+[View Article](https://pubs.rsc.org/en/content/articlepdf/2019/qi/c8qi01217b)
+
